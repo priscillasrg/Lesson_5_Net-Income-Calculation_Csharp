@@ -1,0 +1,30 @@
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\bin\Debug\Cálculo de salário.exe.config
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\bin\Debug\Cálculo de salário.exe
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\bin\Debug\Cálculo de salário.pdb
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\obj\Debug\Cálculo de salário.csprojAssemblyReference.cache
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\obj\Debug\Cálculo_de_salário.Form1.resources
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\obj\Debug\Cálculo_de_salário.Properties.Resources.resources
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\obj\Debug\Cálculo de salário.csproj.GenerateResource.cache
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\obj\Debug\Cálculo de salário.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\obj\Debug\Cálculo de salário.exe
+C:\Users\Priscilla\source\repos\Cálculo de salário\Cálculo de salário\obj\Debug\Cálculo de salário.pdb
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\bin\Debug\Cálculo de salário.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\bin\Debug\Cálculo de salário.exe
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\bin\Debug\Cálculo de salário.pdb
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo_de_salário.Form1.resources
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo_de_salário.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.exe
+C:\Users\Priscilla\Desktop\Treino POO\6 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.pdb
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\bin\Debug\Cálculo de salário.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\bin\Debug\Cálculo de salário.exe
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\bin\Debug\Cálculo de salário.pdb
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo_de_salário.Form1.resources
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo_de_salário.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.exe
+C:\Users\Priscilla\Desktop\Treino POO\5 Cálculo de salário (polimorfismo)\Cálculo de salário\obj\Debug\Cálculo de salário.pdb
